@@ -2,8 +2,6 @@
 <img alt="Entête du dépôt ft_so_long." src="https://github.com/Paype67210/so_long_42_Mulhouse/blob/main/Tools/cover-so_long.png">
 </picture>
 
-Le projet **So_Long** permet de se familiariser avec les bases de la programmation graphique en 2D en utilisant la bibliothèque **MiniLibX**. Ce projet introduit des concepts tels que la gestion des fenêtres, des événements, ainsi que le rendu d'images et l'interaction avec l'utilisateur à travers le clavier. Le but est de créer un petit jeu où le joueur doit se déplacer dans un labyrinthe pour collecter des objets et atteindre une sortie.
-
 ### Objectifs du projet
 
 - **Création d'une interface graphique** : Utilisation de la bibliothèque MiniLibX pour ouvrir une fenêtre, afficher des images, et gérer les événements du clavier.
